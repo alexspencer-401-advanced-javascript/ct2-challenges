@@ -1,0 +1,3 @@
+# Code Challenge 26 | Insertion Sort
+
+For the insertion sort code challenge, we were given pseudo code written in perhaps another language? In any case, I re-worked the code into what I thought made sense based on the observations I could make from the syntax. After I wrote what I thought made sense, I researched online to understood more about what an insertion sort is. Basically, an insertion sort goes through a given array, looks to identify the best place to insert the figure based on a sort, and essentially creates two arrays, one sorted, another unsorted. 
