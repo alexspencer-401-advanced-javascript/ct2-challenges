@@ -1,0 +1,3 @@
+# Code Challenge 27 | Merge Sort
+
+I first did research on what the merge sort is, which is a divide and conquer sorting algorithm. It breaks the array into left and right, and subsequently narrows each side (left and right) down to smaller left and right arrays. It then subsequently uses three indices to track left, right, and the sorting index. So to solve this, I did research ahead of time, transcribed the pseudocode that was provided, and then worked through the logic to ensure I was able to correctly merge sort. 

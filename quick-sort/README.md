@@ -1,0 +1,3 @@
+# Code Challenge 28 | Quick Sort
+
+For the quick sort challenge, I again did a lot of research online to figure out what the quick sort is. Like others, it's a divide and conquer algorithm designed to be more efficient as searching through large arrays for specific values. So for this code challenge, I just transcribed the provided pseudo code to the best of my abilities, and it mostly worked, except for the for loop. I had to work on that a bit!
